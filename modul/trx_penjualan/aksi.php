@@ -26,7 +26,6 @@ switch($_POST['tipe']) {
 	if($cek > 0) {
 		yposSQL('ADD','ypos_penjualandtl',"kd_penjualan='$kode', kd_barang='$brg', harga_jual=$harga_disc, diskon=$item_disc, qty=$qty, total_harga=$ttl, userID='$_SESSION[yuser]', date_lastUpdate=NOW(), user_lastUpdate='$_SESSION[yuser]'");
 		//Dapetin total harga pembelian
-		
 		$t = yposSQL('SHOW','ypos_penjualandtl','DISTINCT SUM(total_harga) AS t_harga',"kd_penjualan='$kode'")->fetch_array();
 		yposSQL('EDIT','ypos_penjualan',"subtotal=$t[t_harga]","kd_penjualan='$kode'");
 	} else {

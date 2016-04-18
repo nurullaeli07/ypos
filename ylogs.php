@@ -2554,3 +2554,325 @@ From   		  : http://localhost/ypos/modul=system&sub=level<br/>
 Url     	  : localhost/ypos/modul=system&sub=modul-akses&op=ed&id=2&level=staff<br/>
 UserAgent     :  (yLabs)<br/>
 ============================================================================================<br/>
+User    	  : demo<br/>
+Time    	  : 2016-04-18 / 18:19:08<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/index.php<br/>
+Url     	  : localhost/ypos/modul=laporan<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : demo<br/>
+Time    	  : 2016-04-18 / 18:19:48<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/report/pembelian/rpt_pembelian.php?rpt=Pembelian&start=2001-04-05&end=2016-04-18<br/>
+Url     	  : localhost/ypos/modul=laporan<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : demo<br/>
+Time    	  : 2016-04-18 / 18:20:13<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/report/penjualan/rpt_penjualan.php?rpt=Penjualan&start=2000-04-01&end=2016-04-18<br/>
+Url     	  : localhost/ypos/modul=laporan<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : demo<br/>
+Time    	  : 2016-04-18 / 18:20:17<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=laporan<br/>
+Url     	  : localhost/ypos/modul=user<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : demo<br/>
+Time    	  : 2016-04-18 / 18:20:18<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=user<br/>
+Url     	  : localhost/ypos/modul=profile<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:21:16<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/index.php<br/>
+Url     	  : localhost/ypos/modul=profile<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:21:20<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=profile<br/>
+Url     	  : localhost/ypos/modul=system&sub=level<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:21:23<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=system&sub=level<br/>
+Url     	  : localhost/ypos/modul=system<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:21:26<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=system<br/>
+Url     	  : localhost/ypos/modul=system<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:21:32<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=system<br/>
+Url     	  : localhost/ypos/modul=system<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:21:34<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=system<br/>
+Url     	  : localhost/ypos/modul=system&sub=level<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:21:36<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=system&sub=level<br/>
+Url     	  : localhost/ypos/modul=system&sub=menu<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:21:38<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=system&sub=menu<br/>
+Url     	  : localhost/ypos/modul=system&sub=modul<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:21:40<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=system&sub=modul<br/>
+Url     	  : localhost/ypos/modul=system&sub=report-param<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:21:41<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=system&sub=report-param<br/>
+Url     	  : localhost/ypos/modul=system&sub=level<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:21:47<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=system&sub=level<br/>
+Url     	  : localhost/ypos/modul=system&sub=level<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:22:37<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=system&sub=level<br/>
+Url     	  : localhost/ypos/modul=system&sub=level<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:22:40<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=system&sub=level<br/>
+Url     	  : localhost/ypos/modul=system<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:22:43<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=system<br/>
+Url     	  : localhost/ypos/modul=system&sub=level<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:22:46<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=system&sub=level<br/>
+Url     	  : localhost/ypos/modul=system&sub=menu<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:22:49<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=system&sub=menu<br/>
+Url     	  : localhost/ypos/modul=system&sub=level<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:22:53<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=system&sub=level<br/>
+Url     	  : localhost/ypos/modul=system&sub=modul-akses&op=ed&id=1&level=Administrator<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:23:05<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=system&sub=modul-akses&op=ed&id=1&level=Administrator<br/>
+Url     	  : localhost/ypos/modul=settings<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:24:47<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/<br/>
+Url     	  : localhost/ypos/modul=laporan<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:25:06<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/<br/>
+Url     	  : localhost/ypos/modul=laporan<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:25:11<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=laporan<br/>
+Url     	  : localhost/ypos/modul=settings<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:25:13<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=settings<br/>
+Url     	  : localhost/ypos/modul=system&sub=level<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:25:16<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=system&sub=level<br/>
+Url     	  : localhost/ypos/modul=system&sub=level<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:25:41<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=system&sub=level<br/>
+Url     	  : localhost/ypos/modul=settings<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:25:42<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=settings<br/>
+Url     	  : localhost/ypos/modul=trx_penjualan<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:25:46<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=trx_penjualan<br/>
+Url     	  : localhost/ypos/modul=barang<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:25:49<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=barang<br/>
+Url     	  : localhost/ypos/modul=kategori<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:25:53<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=kategori<br/>
+Url     	  : localhost/ypos/modul=profile<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:25:55<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=profile<br/>
+Url     	  : localhost/ypos/modul=kategori<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:25:58<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=kategori<br/>
+Url     	  : localhost/ypos/modul=suplier<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:26:01<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=suplier<br/>
+Url     	  : localhost/ypos/modul=barang<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:26:05<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=barang<br/>
+Url     	  : localhost/ypos/modul=trx_penjualan<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:26:08<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=trx_penjualan<br/>
+Url     	  : localhost/ypos/modul=trx_pembelian<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:26:11<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=trx_pembelian<br/>
+Url     	  : localhost/ypos/modul=trx_penjualan<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:28:58<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=trx_pembelian<br/>
+Url     	  : localhost/ypos/modul=trx_penjualan<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:29:00<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=trx_penjualan<br/>
+Url     	  : localhost/ypos/modul=trx_penjualan&act=new<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:32:10<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=trx_penjualan<br/>
+Url     	  : localhost/ypos/modul=trx_penjualan&act=new<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:40:23<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=trx_penjualan<br/>
+Url     	  : localhost/ypos/modul=trx_penjualan&act=new<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 18:41:59<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=trx_penjualan<br/>
+Url     	  : localhost/ypos/modul=trx_penjualan&act=new<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 20:46:02<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=trx_penjualan&act=new<br/>
+Url     	  : localhost/ypos/modul=kategori<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>
+User    	  : yuda<br/>
+Time    	  : 2016-04-18 / 20:46:05<br/>
+IP     		  : ::1<br/>
+From   		  : http://localhost/ypos/modul=kategori<br/>
+Url     	  : localhost/ypos/modul=profile<br/>
+UserAgent     :  (Acer-PC)<br/>
+============================================================================================<br/>

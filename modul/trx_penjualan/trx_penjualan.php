@@ -135,7 +135,8 @@ $q = yposSQL('SHOW','ypos_penjualan','kd_penjualan, tgl_input, subtotal, diskon,
 <?php
 $Qitem = yposSQL('SHOW','ypos_barang a, ypos_penjualandtl b','kdbarang, a.nama_barang, idDtlPenjualan, kd_penjualan, b.harga_jual, qty, total_harga',"kdbarang=kd_barang && kd_penjualan='$kode' && 1=1");
 $no = 1;
-while ($getItem = $Qitem->fetch_array()) {?>
+while ($getItem = $Qitem->fetch_array()) {
+?>
   <tr>
     <td align="center"><?php echo $no;?></td>
     <td align="center"><?php echo $getItem['kdbarang'];?></td>
